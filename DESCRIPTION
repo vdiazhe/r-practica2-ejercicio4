@@ -1,7 +1,10 @@
+Date: 2017-10-22
 Package: funciones
 Title: Funciones Dummies
 Version: 1
-Authors@R: person("Víctor", "Díaz", email = "victor.diazhf@gmail.com",
-                  role = c("aut", "cre"))
+Authors@R: person("Víctor", "Díaz", email = "victor.diazhf@gmail.com", role = c("aut", "cre"))
+Author: Víctor Díaz
+Maintainer: Víctor Díaz <victor.diazhf@gmail.com>
 Description: Funciones dummies para probar la subida a GitHub
 Depends: R (>= 3.1.0)
+License: GPL (>= 2)
